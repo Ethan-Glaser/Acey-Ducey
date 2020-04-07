@@ -1,0 +1,7 @@
+Acey-Ducey is a personal project that I created in May 2019.
+Acey-Ducey is a card game in which 2 cards are fliped over 
+and the player bets on if the card fliped next is going to 
+be in between the previous 2. This program runs a simulation of
+thousands of decks and records the winning percentage of each 
+differnt combination of 2 cards which is bet on. It the takes these 
+percentages and records them in a txt file by csv.
